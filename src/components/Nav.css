@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    margin: auto;
+    
+    justify-content:center;
+    align-items:center;
+
+    position: sticky;
+    top: 0;
+    background-color:#f8f9fa;
+}
+.nav .item{
+    padding: 1rem;
+}
+
+.nav .myBtn{
+    margin:1rem;
+    
+}
